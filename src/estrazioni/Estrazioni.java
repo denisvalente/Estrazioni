@@ -1,6 +1,6 @@
 package estrazioni;
 
-//@author Denis Valente
+//@author Denis Valente con controllo versione
 public class Estrazioni {
 
     public static void main(String[] args) {
